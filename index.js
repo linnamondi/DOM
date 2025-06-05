@@ -11,7 +11,7 @@ newvegList.textContent="Cabbage"
 
 document.getElementById("title").style.marginLeft = "560px";
 document.getElementById("title").style.fontWeight="1500"
-document.getElementById("title").style.fontSize="45px"
+document.getElementById("title").style.fontSize="65px"
 document.getElementById("paragraph").style.marginLeft="560px"
 document.getElementById("paragraph").style.fontSize="20px"
 document.getElementById("paragraph").style.fontWeight="900"
